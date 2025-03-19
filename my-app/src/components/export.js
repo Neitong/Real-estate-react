@@ -1,15 +1,18 @@
-import prop1 from "./images/prop1.webp";
-import prop2 from "./images/prop2.webp";
-import prop3 from "./images/prop3.webp";
-import prop4 from "./images/prop4.webp";
-import prop5 from "./images/prop5.webp";
-import prop6 from "./images/prop6.webp";
-import client1 from "./images/client1.png";
-import client2 from "./images/client2.png";
-import client3 from "./images/client3.png";
-import client4 from "./images/client4.png";
-import client5 from "./images/client5.png";
-import client6 from "./images/client6.png";
+
+
+import prop1 from "../assets/images/prop1.webp";
+import prop2 from "../assets/images/prop2.webp";
+import prop3 from "../assets/images/prop3.webp";
+import prop4 from "../assets/images/prop4.webp"; 
+import prop5 from "../assets/images/prop5.webp";
+import prop6 from "../assets/images/prop6.webp";
+import client1 from "../assets/images/client1.png";
+import client2 from "../assets/images/client2.png";
+import client3 from "../assets/images/client3.png";
+import client4 from "../assets/images/client4.png";
+import client5 from "../assets/images/client5.png";
+import client6 from "../assets/images/client6.png";
+
 import { MdNoteAlt } from "react-icons/md";
 import {
   FaHome,
